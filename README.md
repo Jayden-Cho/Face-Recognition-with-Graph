@@ -1,6 +1,7 @@
 # Face Recognition Project
 Node classification with Face Dectection and Extraction and Graph Neural Network
 > Jinho Lee (jinhohl2@illinois.edu)
+
 > Seonggeun Cho (sc27@illinois.edu)
 
 ## Description
