@@ -22,6 +22,8 @@ The code has been tested under Python 3.7.12. The required packages are as follo
 * numpy == 1.19.5
 * sklearn == 1.0.1
 
+
+
 ## Acknowledgement
 
 **Facenet: A unified embedding for face recognition and clustering**. Florian Schroff, Dmitry Kalenichenko, James Philbin, CVPR, 2015.
