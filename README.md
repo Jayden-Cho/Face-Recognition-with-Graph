@@ -1,6 +1,8 @@
 # Face Recognition Project
 Node classification with Face Dectection and Extraction and Graph Neural Network
-\quote {Jinho Lee, Seonggeun Cho}
+\begin{quote}
+Jinho Lee, Seonggeun Cho
+\end{quote}
 
 ## Description
 (Motivations or reasons to behind the creation of the project)
