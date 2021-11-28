@@ -1,6 +1,6 @@
 # Face Recognition Project
 Node classification with Face Dectection and Extraction and Graph Neural Network
-| Seongg
+> Seongg
 
 ## Description
 (Motivations or reasons to behind the creation of the project)
