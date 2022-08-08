@@ -9,10 +9,10 @@ The purpose of this project is to utilize neural network and graph structure for
 
 ## File Structures
 * `retinaface`: Detect face from am image
-* facenet: Convert a face into a 128D vector
-* face2nodevec.py: Import images from input_pictures directory and return a - list of feature vectors of the faces in input images.
-* gnn_preprocess.py: Generate data required for Graph Neural Network in matrix form.
-* main.inpynb: Perform node classification
+* `facenet`: Convert a face into a 128D vector
+* `face2nodevec.py`: Import images from input_pictures directory and return a - list of feature vectors of the faces in input images.
+* `gnn_preprocess.py`: Generate data required for Graph Neural Network in matrix form.
+* `main.ipynb`: Perform node classification
 
 ## Environment Requirement
 The code has been tested under Python 3.7.12. The required packages are as follows:
